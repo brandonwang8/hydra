@@ -1,6 +1,12 @@
 # hydra: A Slinky-Inspired Tendon-Driven Continuum Robot
 
-## Connecting to the Raspberry Pi
+## Hardware 
+1. Download STL files from hardware folder.
+2. Print according to Bill of Materials.
+3. Assemble according to full assembly provided.
+
+
+## Software
 
 Connect to DukeVisitor 
 
