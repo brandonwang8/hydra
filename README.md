@@ -1,2 +1,2 @@
-# hydra
-A Slinky-Inspired Tendon-Driven Continuum Robot
+# hydra: A Slinky-Inspired Tendon-Driven Continuum Robot
+
